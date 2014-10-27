@@ -35,6 +35,7 @@ Details here: http://www.elabs.se/blog/60-introducing-capybara-2-1
 
 * https://rate-exchange.appspot.com/
 
-Changed URL to:
+* Changed URL to:
     "http://rate-exchange.appspot.com/currency?from=#{from.upcase}&to=#{to.upcase}&q=#{args.first}"
 
+*  `~/local/src/ruby/sinatra/sinatra-capybara`
